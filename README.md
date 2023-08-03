@@ -1,4 +1,5 @@
 # P01_International_Malnutrition_Study_-Python_-_SQL-
+<h2><strong><em>Data Analyst Certification by OpenClassrooms, in partnership with&nbsp;ENSAE-ENSAI</em></strong></h2>
 <p><em>Studying malnutrition using Python and SQL on data from FAO</em></p>
 <p><em>Skills:</em></p>
 <ul>
