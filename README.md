@@ -1,6 +1,14 @@
 # P01_International_Malnutrition_Study_-Python_-_SQL-
 <p><em>Studying malnutrition using Python and SQL on data from FAO</em></p>
-
+<p><em>Skills:</em></p>
+<ul>
+    <li style="font-style: italic;"><em>Perform complex queries in SQL</em></li>
+    <li style="font-style: italic;"><em>Apply relational algebra in R or Python</em></li>
+    <li style="font-style: italic;"><em>Use specialized libraries for Data Science</em></li>
+    <li style="font-style: italic;"><em>Master the basics of R or Python</em></li>
+    <li style="font-style: italic;"><em>Use technical documentation</em></li>
+    <li style="font-style: italic;"><em>Recover data from an identified source</em></li>
+</ul>
 <div>
     <div>
         <div>
